@@ -1,4 +1,4 @@
-HR Analytics Dashboard – Power BI
+# HR Analytics Dashboard – Power BI
 This project presents an HR Analytics Dashboard created using Power BI, aimed at helping HR teams understand and analyze employee attrition trends across various dimensions such as age, gender, education, salary, and job roles.
 
 📊 Key Features
@@ -17,8 +17,8 @@ Job Role-wise attrition with detailed breakdown
 Interactive slicers for department-level filtering
 
 🔧 Tools & Technologies
-Power BI (Dashboard development)
-DAX (Data Analysis Expressions for measures and KPIs)
+Power BI (Dashboard development),
+DAX (Data Analysis Expressions for measures and KPIs),
 Excel/CSV (for data source)
 
 📈 Business Impact
