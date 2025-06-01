@@ -27,11 +27,12 @@ Identify high-risk groups for attrition
 Analyze key factors influencing employee turnover
 Enable data-driven HR strategies to improve retention
 
-## Dataset:https://github.com/IshvaGhunjariya/Data-Analytics_Dashboard/blob/main/HR_Analytics.csv
+### Dataset:
+https://github.com/IshvaGhunjariya/Data-Analytics_Dashboard/blob/main/HR_Analytics.csv
 
-## Dashboard: 
+### Dashboard: 
 
-
+![hrdashboard](https://github.com/user-attachments/assets/4e2dff28-b1a8-438b-938f-731800875ba5)
 
 
 
